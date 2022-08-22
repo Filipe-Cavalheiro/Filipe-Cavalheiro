@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fil2k</h1>
 <h3 align="center">An over optimistic learner</h3>
 
-[comment]: <>- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-
 - 🌱 I’m currently learning **C++**
 
 - 🤝 I’m looking for help with **Robotics and AI development**
