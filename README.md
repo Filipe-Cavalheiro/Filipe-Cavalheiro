@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fil2k</h1>
 <h3 align="center">An over optimistic learner</h3>
 
-- 🌱 I’m currently learning <a href="https://www.learncpp.com/">**C++**</a>
+- 🌱 I’m currently learning <a href="https://www.learncpp.com/">**openGL/MCU Programming**</a>
 
 - 🤝 I’m looking for help with **Robotics and AI development**
 
